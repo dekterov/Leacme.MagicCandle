@@ -5,6 +5,7 @@
 This application features the ability to display a candle with a dynamic flame depending on the device tilt.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703453-c6616180-2d91-11ea-836d-ca40e878528c.png)
 
 ## Application Compiling
 
